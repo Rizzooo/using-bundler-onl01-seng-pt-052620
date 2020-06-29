@@ -9,4 +9,4 @@ group :development do
   gem "pry"
 end
 
-gem "rspec", groun ->
+gem "rspec", :group => :test
